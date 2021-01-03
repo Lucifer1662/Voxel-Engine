@@ -1,0 +1,10 @@
+{
+    "name": "Voxel Engine",
+    "description": "A 3D rendering engine to render voxels using OpenGl. The project was create and worked on while I was on a flight. At its current stage I was implementing optimisations to only view faces next to transparent blocks.",
+    "images": [
+      {
+       path: "development.,
+       description: "Debugging block visibility",
+      }
+   ]
+}
